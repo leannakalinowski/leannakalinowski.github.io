@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-about me info goes here 
+My name is Leanna (she/her) and I am a second-year PhD student in psychology with a collaborative specialization in neuroscience at the University of Toronto. I work under Dr. Melissa Holmes on the Mississauga campus, where I study how oxytocin, vasopressin, and stress interact to regulate social behavior in the eusocial naked mole-rat. I am originally from Buffalo, NY, and I earned my MA in behavioral neuroscience from the University at Buffalo and my BA in psychology from Buffalo State College. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am passionate about science communication, community outreach, and the intersection between science and public policy. To this end, I currently serve as a Site Coordinator for Let’s Talk Science at the University of Toronto Mississauga and as the Behavioral Neuroscience Representative of the APA Science Student Council, among other similar roles. I also regularly pursue training to expand my knowledge in these areas, including courses on science journalism and science policy.
+
+Outside of science, you could typically find me running a half marathon, training for the 2020 Chicago Marathon (that ultimately got postpones) or taking a group fitness class at SpinCo or F45. However, my life was thrown for a loop in February 2021 when I suffered a broken leg and dislocated ankle. I am now focused on this long road of recovery so that I can go back to the things I love, both in fitness and in science. I plan to outline this journey through my blog and social media platforms.
