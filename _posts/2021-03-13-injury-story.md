@@ -7,7 +7,7 @@ tags:
   - graduate school
   - injury recovery
 ---
-My story about breaking my leg during graduate school and how I hope to overcome this setback in my studies. 
+My story about breaking my leg during graduate school and how I hope to overcome this setback in my studies and beyond. 
 
 TW: discussion of broken bones, mental health
 
