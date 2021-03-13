@@ -4,7 +4,7 @@ main:
     url: /research/
     
   - title: "cv"
-    url: {{ site.url }}/files/LKalinowski_CVforWebsite_March2021.pdf
+    url: "https://drive.google.com/file/d/17_y0HUWzzKZ74bDrjxeBvSgpsbccud9q/view?usp=sharing"
 
   - title: "blog"
     url: /year-archive/
