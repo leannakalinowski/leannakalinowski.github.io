@@ -1,12 +1,14 @@
 ---
 title: 'when life throws you for a loop in graduate school'
 date: 2021-03-13
-permalink: /posts/2021/03/blog-post-1/
+permalink: /posts/2021/03/injury-story/
 tags:
   - personal
   - graduate school
+  - injury recovery
 ---
 My story about breaking my leg during graduate school and how I hope to overcome this setback in my studies. 
+
 TW: discussion of broken bones, mental health
 
 **Graduate school is hard… A pandemic makes it harder.**
@@ -31,11 +33,11 @@ Boyfriend got there first, quickly followed by a group of incredibly helpful bys
 
 The final diagnosis ended up being a broken femur, tibia, and talus, and a dislocated ankle. I had a closed reduction procedure done in the ER that day to try and pop my foot back into place, but it gradually went right back to its dislocated form. Three days later, I had surgery to actually fix my dislocated ankle (open reduction) and get some metal plates and screws put in (internal fixation). 
 
-As I write this, I’m nine days post-op and honestly not feeling too horrible physically. The pain is easily managed with Advil and I can generally do most things on my own around my apartment without assistance. Cooking, scooping the cat litter box, and washing myself are still pretty difficult to manage by myself, but I’ll get there. My cast is quite itchy, heavy, and sweaty, and I can’t get comfortable to save my life, but I would much rather deal with discomfort than pain. Oh, and I must say that my boyfriend and his family have honestly been an absolute godsend during these times. 
+As I write this, I’m two weeks post-op and honestly not feeling too horrible physically. The pain is easily managed with Advil and I can generally do most things on my own around my apartment without assistance. Cooking, scooping the cat litter box, and washing myself are still pretty difficult to manage by myself, but I’ll get there. My cast is quite itchy, heavy, and sweaty, and I can’t get comfortable to save my life, but I would much rather deal with discomfort than pain. Oh, and I must say that my boyfriend and his family have honestly been an absolute godsend during these times by helping with cleaning, groceries, and generally just being there for me. 
 
 **What happens next?**
 
-My post-op appointment with the orthopedic surgeon is in a little over a week. I’ll get my staples and cast removed (hopefully replaced with something removable, such as a boot!), a new set of x-rays, and most importantly, my prognosis. Yeah, I’m pretty much completely in the dark on recovery timelines until this appointment, so I’m taking this opportunity to sit around and feel bad for myself for a few weeks until I actually have enough information to come up with plans.
+My post-op appointment with the orthopedic surgeon is early next week. I’ll get my staples and cast removed (hopefully replaced with something removable, such as a boot!), a new set of x-rays, and most importantly, my prognosis. Yeah, I’m pretty much completely in the dark on recovery timelines until this appointment, so I’m taking this opportunity to sit around and feel bad for myself for a few weeks until I actually have enough information to come up with plans.
 
 I’m meeting with my PhD committee soon to figure out my next steps. It’ll be difficult to come up with something concrete without knowing my specific prognosis yet, but generally knowing that I’ll be out for 3-6 months at least allows for us to plan something. My program seems to be accommodating and I don’t think that I’ll be hit with any penalties for not reaching some milestones on time. But this situation will be constantly evolving over the next several months, and I know that it will become the source of plenty of blog material. 
 
@@ -53,6 +55,5 @@ I don’t know how much of the trauma side I’ll talk about publicly, but I jus
 
 Finally, I’ve been dealing with a lot of existential stuff. I feel like this is normal at this stage, but I’ll be sure to bring it up to a therapist if it ends up becoming too much. Lots of butterfly effect stuff, and thinking about how one tiny change in action on the day of my injury could’ve prevented everything. Things like, what if I would’ve walked around the patch of ice instead of on it? Or, what if I would’ve waited until mid-afternoon when the sun was out to pick up the key? Or, what if I would’ve been wearing footwear with more traction? It’s easy to become obsessed with these thoughts and feel a sense of guilt, but I’m doing my best to adopt an “everything happens for a reason” approach to dealing with this. 
 
-Thank you for reading.
 
 Well, there you have it. Thank you so much for taking the time to read about my ordeal. I hope to keep up with regular blog posts, mainly because writing about this has been so therapeutic. If you are going through something similar and would like someone to talk to, my email and DMs are always open. 
