@@ -4,7 +4,7 @@ main:
     url: /research/
     
   - title: "cv"
-    url: "https://drive.google.com/file/d/17_y0HUWzzKZ74bDrjxeBvSgpsbccud9q/view?usp=sharing"
+    url: "/cv/"
 
   - title: "blog"
     url: /year-archive/
