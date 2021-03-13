@@ -13,13 +13,3 @@ My name is Leanna (she/her) and I am a second-year PhD student in psychology wit
 I am passionate about science communication, community outreach, and the intersection between science and public policy. I am particularly interested in issues related to advocating for scientific funding, improving science literacy among people from all age groups, and making science more diverse and inclusive (e.g., supporting diverse scientists in all stages of their careers and promoting equitable publishing practices). To this end, I currently serve as a Site Coordinator for <a href="https://outreach.letstalkscience.ca/utm.html" target="_blank">Let’s Talk Science at the University of Toronto Mississauga</a> and as the Behavioral Neuroscience Representative of the <a href="https://www.apa.org/science/leadership/students" target="_blank">APA Science Student Council</a>, among several other similar roles. I also regularly pursue training to expand my knowledge in these areas, including courses and workshops on equity and diversity, science communication, and public policy.
 
 Outside of science, you could typically find me running a half marathon, training for the 2020 Chicago Marathon (that ultimately got postponed) or taking a group fitness class at SpinCo or F45. However, my life was thrown for a loop in February 2021 when I suffered a broken leg and dislocated ankle. I am now focused on this long road of recovery so that I can go back to the things I love, both in fitness and in science. I plan to outline this journey through my blog and social media platforms.
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFXKR6TENB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZFXKR6TENB');
-</script>
