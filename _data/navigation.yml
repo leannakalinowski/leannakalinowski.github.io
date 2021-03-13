@@ -1,5 +1,10 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "research"
     url: /research/
+    
+  - title: "cv"
+    url: /cv/
 
+  - title: "blog"
+    url: /year-archive/
