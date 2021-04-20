@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 Text
+Text 2
