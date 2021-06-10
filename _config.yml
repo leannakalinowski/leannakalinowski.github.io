@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "leanna kalinowski"
 title_separator          : "-"
 name                     : &name "leanna kalinowski"
-description              : &description "PhD student at university of toronto"
+description              : &description "PhD candidate at university of toronto"
 url                      : https://leannakalinowski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leannakalinowski/leannakalinowski.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "leanna kalinowski"
   avatar           : "62310298_2253908991371334_5783913800461713408_n.jpg"
-  bio              : "PhD student at the university of toronto, advocate for equity in science education, and lover of fitness currently on hiatus with a broken leg"
+  bio              : "PhD candidate at the university of toronto and lover of all things science outreach, communication, and policy."
   location         : 
   employer         :
   pubmed           : 
