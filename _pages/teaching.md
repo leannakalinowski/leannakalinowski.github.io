@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Formal Teaching Training
 ### Through the University of Toronto's Teaching Assistant Training Program
-I am currently working towards an **Advanced University Teaching Preparation Certificate**, with anticipated completion in June 2021. The purpose of this certificate is to prepare PhD students who are intending to pursue a teaching career in academia. Completion of the certificate requires participation in several hands-on teaching workshops, 2 teaching practicums, and completion of a teaching dossier and written reflection. 
+I am currently working towards an **Advanced University Teaching Preparation Certificate**, with anticipated completion in July 2021. The purpose of this certificate is to prepare PhD students who are intending to pursue a teaching career in academia. Completion of the certificate requires participation in several hands-on teaching workshops, 2 teaching practicums, and completion of a teaching dossier and written reflection. 
 
 The workshops that I've completed towards this certificate are as follows:
 - Teaching in Ontario Colleges
@@ -23,7 +23,7 @@ The workshops that I've completed towards this certificate are as follows:
 - Identifying and Addressing Microaggressions in the University Classroom
 
 ### Through the University of Toronto's Department of Psychology
-In May 2021, I will be taking a four-week teaching practicum geared towards preparing doctoral candidates for teaching university-level psychology courses. 
+In May 2021, I completed a four-week workshop on the Philosophy of Teaching & Pedagogy in Psychology, led by Dr. John Vervaeke. 
 
 ## Teaching Assistantships
 ### At University of Toronto Mississauga
