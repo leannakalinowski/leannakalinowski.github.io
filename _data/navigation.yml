@@ -3,6 +3,9 @@ main:
   - title: "research"
     url: /research/
   
+  - title: "leadership"
+    url: /leadership/
+  
   - title: "teaching"
     url: /teaching/
     
