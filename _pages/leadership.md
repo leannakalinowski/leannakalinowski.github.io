@@ -14,7 +14,8 @@ Behavioral Neuroscience Representative (2020-2022):
 - Advocate for federal funding of psychological research and funding through meetings with congressional leaders (May 2021: "Stand for Science to Advance Psychology" Advocacy Summit)
 - Make recommendations to the APA for student programming and DEI initiatives
 
-Chair-elect (2021-2022):
+Chair (2021-2022):
+- Chair-elect/in training until my term begins on 9/1
 - Organize and facilite monthly council meetings
 - Collaborate with APA staff to develop new projects and initiatives for the council
 - Represent the council by attending and reporting back on semi-annual APA Board of Scientific Affairs meetings
