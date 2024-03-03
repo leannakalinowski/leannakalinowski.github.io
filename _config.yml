@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Leanna Kalinowski, MA, MPH-c"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Toronto"
-  employer         : "Neuromatch"
+  bio              : "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their research. Also an MPH student at the University at Buffalo."
+  location         : "Toronto, Canada"
+  employer         : # "Neuromatch"
   uri              : # URL
-  email            : "leanna.kalinowski@neuromatch.io" 
+  email            : # "leanna.kalinowski@neuromatch.io" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=NfQqjyIAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-4326-4781"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=leanna+kalinowski"
-  researchgate     : "https://www.researchgate.net/profile/Leanna-Kalinowski"
+  orcid            : # "https://orcid.org/0000-0002-4326-4781"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=leanna+kalinowski"
+  researchgate     : # "https://www.researchgate.net/profile/Leanna-Kalinowski"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
