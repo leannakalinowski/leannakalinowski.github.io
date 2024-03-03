@@ -24,11 +24,11 @@ author:
   avatar           : "LKalinowski Headshot.jpg"
   name             : "Leanna Kalinowski, MA, MPH-c"
   pronouns         : "she/her"  
-  bio              : "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their research. <br> <br> Also an MPH student at the University at Buffalo."
-  location         : "Toronto, Canada"
-  employer         : # "Neuromatch"
+  bio              : "Civic Science Fellow studying how scientists can incorporate civic engagement into their research. <br> <br> Also an MPH student at the University at Buffalo."
+  location         : "Greater Toronto Area, Canada"
+  employer         : "Neuromatch"
   uri              : # URL
-  email            : # "leanna.kalinowski@neuromatch.io" 
+  email            : "leannakalinowski@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=NfQqjyIAAAAJ&hl=en"
@@ -62,7 +62,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "leannakal"  # Replace this with your X / Twitter handle
+  twitter          : # "leannakal"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
