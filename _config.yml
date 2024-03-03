@@ -12,7 +12,7 @@ title                    : "Leanna Kalinowski"
 title_separator          : "-"
 name                     : &name "Leanna Kalinowski, MA, MPH-c"
 description              : &description "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their work"
-url                      : "https://leannakalinowski.github.io/"
+url                      : "https://leannakalinowski.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "LKalinowski Headshot.jpg"
   name             : "Leanna Kalinowski, MA, MPH-c"
   pronouns         : "she/her"  
-  bio              : "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their research. Also an MPH student at the University at Buffalo."
+  bio              : "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their research. <br> <br> Also an MPH student at the University at Buffalo."
   location         : "Toronto, Canada"
   employer         : # "Neuromatch"
   uri              : # URL
