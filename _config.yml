@@ -12,7 +12,7 @@ title                    : "Leanna Kalinowski"
 title_separator          : "-"
 name                     : &name "Leanna Kalinowski, MA, MPH-c"
 description              : &description "Civic Science Fellow at Neuromatch studying how scientists can incorporate civic engagement into their work"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://leannakalinowski.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
